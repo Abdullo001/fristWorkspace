@@ -1,0 +1,10 @@
+section{
+    width:90%;
+    align-items:center ;
+    color: red;
+    text-align: center;
+    background-color:cyan ;
+    margin:20px;
+    padding:3em;
+    border-radius:15px;
+}
